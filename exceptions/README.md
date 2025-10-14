@@ -33,3 +33,5 @@ E lançar exceções personalizadas em qualquer serviço:
 ```java
 throw new ResourceNotFoundException("Usuário não encontrado.");
 ```
+
+TESTES
