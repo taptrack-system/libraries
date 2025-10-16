@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.taptrack.library</groupId>
     <artifactId>exceptions</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>exceptions-library</name>
     <description>Library of Standardized Approaches for the Tap Track System</description>
     <url/>
@@ -28,6 +28,8 @@
     </scm>
     <properties>
         <java.version>25</java.version>
+        <maven.compiler.source>25</maven.compiler.source>
+        <maven.compiler.target>25</maven.compiler.target>
     </properties>
     <dependencies>
         <dependency>
